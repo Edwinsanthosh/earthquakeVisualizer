@@ -1,5 +1,10 @@
+import { EarthquakeProvider } from "./context/EarthquakeContext";
 import Home from "./pages/Home";
 
 export default function App() {
-  return <Home />;
+  return (
+    <EarthquakeProvider>
+      <Home />
+    </EarthquakeProvider>
+  );
 }
