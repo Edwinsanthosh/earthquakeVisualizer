@@ -2,6 +2,11 @@
 
 # 🌍 Earthquake Map Visualization — Project Documentation
 
+## 🧠 Working With AI (Level 1 Requirement)
+I used ChatGPT to assist in planning and structuring this project.  
+You can view the full conversation here:  
+**ChatGPT Conversation Link:** https://chatgpt.com/share/6901a4be-3e44-800c-ba9d-e57005b8b188
+
 ## Overview
 
 This application visualizes **global earthquake events** on an **interactive Leaflet map**.
